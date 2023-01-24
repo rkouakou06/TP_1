@@ -33,7 +33,6 @@ class Animal():
 
     def my_children(self):
         """This function allows to show all the children of an animal."""
-        
         if not self.children :
             print(self.name + " has no child yet")
         else:
@@ -55,7 +54,6 @@ class Animal():
         """This function allows you to show all the ancestors of an animal.
         The list of ancestors is read in reverse order to start with the oldest first """
         print(self.name + "'s ancestor(s) : " + str(self.ancestors[::-1]))
-
 
 if __name__ == "__main__" :
     animal1=Animal("Billy","Dog",14,"carnivore","Poppy")
