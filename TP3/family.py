@@ -33,6 +33,7 @@ class Animal():
 
     def my_children(self):
         """This function allows to show all the children of an animal."""
+        
         if not self.children :
             print(self.name + " has no child yet")
         else:
