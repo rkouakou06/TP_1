@@ -72,5 +72,3 @@ if __name__ == "__main__" :
     animal8.my_ancestors()
     animal2.my_ancestors()
     animal2.my_children()
-
-    
