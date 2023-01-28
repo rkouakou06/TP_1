@@ -1,3 +1,8 @@
-# TP_1
-Bonjour, 
-je m'appelle Rochelle KOUAKOU  et je suis actuellement étudiante en M1 bio-informatique parcours DLAD
+# Family is important 
+
+The purpose of this script is to show the ancestors and descendants of an animal. 
+
+For this, we create a class called "_Animal_". Through this class, we can create animals. 
+They have a mother and can have children with the _add_children_ function. 
+We can also remove children (why not... :-D) with the _remove_children_ function. 
+The function _my_ancestors_ allows to visualize the ancestry of an animal and the function _my_children_ allows to visualize its children. 
