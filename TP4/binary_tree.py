@@ -132,3 +132,5 @@ if __name__ == "__main__":
     print(tree1.print_tree())
     print("\nBinary tree with vertical display\n ")
     print(tree1.print_tree_vertical())
+
+    
