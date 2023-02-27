@@ -1,0 +1,4 @@
+Human,22,omnivore,2,Rochelle
+Human,21,omnivore,2,Audrey
+Human,25,omnivore,2,Mohamed
+Human,25,omnivore,2,pierre
